@@ -15,7 +15,7 @@ export default function Hero() {
         <Button>Get Started</Button>
       </article>
       <img
-        className="lg:max-w-lg max-w-96 order-1 md:order-2"
+        className="lg:max-w-lg max-w-96 order-1 md:order-2 w-full"
         src="https://images.blush.design/xkbkKP1MtGitRIi1baxU?w=920&auto=compress&cs=srgb"
         alt=""
       />

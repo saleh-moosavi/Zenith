@@ -1,3 +1,4 @@
+import Comment from "./component/Comment";
 import Hero from "./component/Hero";
 import OurAgency from "./component/OurAgency";
 import Services from "./component/Services";
@@ -10,6 +11,7 @@ export default function Index() {
       <Services />
       <Solutions />
       <OurAgency />
+      <Comment />
     </div>
   );
 }
